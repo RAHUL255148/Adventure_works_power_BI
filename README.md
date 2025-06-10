@@ -30,11 +30,4 @@ This project demonstrates the typical Power BI workflow, covering:
 
 ---
 
-## 🛠️ How to Use
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/RAHUL255148/Adventure_works_power_BI.git
-cd Adventure_works_power_BI
 
